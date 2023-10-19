@@ -1,0 +1,289 @@
+@media (max-width: 1035px){
+    .section3 .big-sale .sale-cards a {
+        height: 34%;
+    }
+    .nav-2 .popup {
+        right: 341px;
+        padding: 0 20px 0 20px;
+    }
+}
+@media (max-width: 920px){
+    .nav-2 #op {
+        display: none;
+    }
+    .nav-2 img {
+        border-radius: 10px;
+    }
+    .nav-2 {
+        padding-left: 75px;
+    }
+    .section3 .big-sale .sale-cards {
+        margin: 35px 44px 0px 24px;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        width: 95%;
+        height: 100%;
+    }
+    .nav-2 .popup .form .form-element input {
+        width: 200px;
+    }
+}
+@media (max-width: 810px){
+    .nav-1 {
+        display: none; /*hamburger*/
+        flex-direction: column;
+        align-items: flex-start;
+        background: linear-gradient(302deg, black,white, transparent);
+        position: absolute;
+        top: 0px;
+        left: 0px;
+        width: 190px;
+        height: 300px;
+    }
+    .nav-1.act{
+        display: flex;
+    }
+    .nav {
+        background: linear-gradient(180deg, black, transparent);
+        justify-content: space-between;
+        padding: 15px 0px 15px 0px;
+        align-items: center;
+        width: 100%;
+        position: sticky;
+        display: flex;
+        height: 50px;
+    }
+    .nav-1 ul {
+        flex-direction: column;
+        height: 100%;
+        width: 100%;
+        align-items: center;
+        padding-top: 32px;
+    }
+    .nav-2 {
+        padding-left: 110px;
+    }
+    nav {
+        justify-content: flex-end;
+    }
+    #mobile{
+        display: flex;
+    }
+    #closee{
+        display: flex;
+    }
+    #closee img{
+        position: absolute;
+        top: 0px;
+        left: 158px;
+        width: 28px;
+    }
+    .nav-2 .popup {
+        width: 40vw;
+        height: 75vh;
+        right: 226px;
+    }
+}
+@media(max-width:794px){
+    .center .cards .card1 {
+        height: 253px;
+    }
+}
+@media(max-width:601px){
+    .section3 .big-sale .sale-cards {
+        margin: 35px 44px 0px 13px;
+        width: 95%;
+    }
+    .section3 .big-sale .sale-cards a {
+        margin: 27px 1px 0 0;
+        width: 37%;
+    }
+    .section3 {
+        height: 1223px;
+    }
+    .section3 .big-sale .sale-cards a .sale-card {
+        height: 64%;
+    }
+    .center .cards #small-card {
+        display: none;
+    }
+    .center .cards .card1 {
+        width: 41%;
+        height: 210px;
+    }
+    .nav-2 .popup {
+        width: 50vw;
+        right: 136px;
+    }
+}
+@media(max-width:794px){
+    .section3 {
+        height: 1283px;
+    }
+    .section3 .big-sale .sale-cards a {
+        height: 30%;
+    }
+}
+@media(max-width:535px){
+    #mobile img {
+        width: 25px;
+    }
+}
+@media(max-width:524px){
+    .nav-2 {
+        padding-left: 20px;
+    }
+    .nav-2 #opp {
+        display: none;
+    }
+    .center .cards .card1 p {
+        font-size: smaller;
+    }
+    .nav-2 .popup {
+        width: 58vw;
+        right: 88px;
+    }
+}
+@media(max-width:503px){
+    .section1 .intro h1 {
+        font-size: x-large;
+    }
+    .section1 .search {
+        width: 65%;
+    }
+}
+@media(max-width:430px){
+    .background .para a p {
+        padding-top: 15px;
+        font-size: small;
+    }
+    .background h1 {
+        font-size: medium;
+    }
+    .background1 .para a p {
+        padding-top: 15px;
+        font-size: small;
+    }
+    .background1 h1 {
+        font-size: medium;
+    }
+    .center .cards .card1 .desc h3 {
+        font-size: medium;
+    }
+    .section1 .button button {
+        font-size: x-small;
+    }
+    .nav-2 .popup .form {
+        padding-top: 0px;
+    }
+    .nav-2 .popup {
+        width: 68vw;
+        right: 48px;
+        height: 67vh;
+    }
+}
+@media(max-width:400px){
+    .nav-2 {
+        padding-left: 0;
+    }
+    .nav-2 button {
+        width: 56px;
+        margin: 0px 0px 0px 20px;
+    }
+    .nav-2 {
+        padding-right: 5px;
+    }
+}
+@media(max-width:379px){
+    .center {
+        width: 100%;
+    }
+    .center .cards {
+        margin: 18px 10px 30px 10px;
+    }
+    .section1 .intro h1 {
+        font-size: large;
+    }    
+    .section1 .button button {
+        font-size: xx-small;
+    }
+    .section3 .big-sale .sale-cards {
+        justify-content: center;
+    }
+    .section3 .big-sale .sale-cards a {
+        width: 73%;
+    }
+    .section3 .big-sale .sale-cards a .sale-card {
+        height: 75%;    
+    
+    }
+    .footer {
+        padding: 1233px 80px 20px 80px;
+    }
+    .section1 .search .search1 input {
+        font-size: small;
+    }
+    .section1 .search .search1 button {
+        font-size: small;
+    }
+    .nav-2 .popup {
+        height: 74vh;
+    }    
+}
+@media(max-width:339px){
+    #mobile img {
+        width: 18px;
+    }
+    .nav-2 button {
+        width: 44px;
+        font-size: x-small;
+    }
+    .center .cards .card1 {
+        width: 47%;
+    }
+    .background .para a p {
+        font-size: x-small;
+    }
+    .background h1 {
+        font-size: small;
+    }
+    .background1 .para a p {
+        font-size: x-small;
+    }
+    .background1 h1 {
+        font-size: small;
+    }
+    .nav-1 h1{
+        font-size: larger;
+    }
+    .nav-2 .popup {
+        right: 30px;
+    }
+}
+@media(max-width:302px){
+    .nav-2 .popup .form .form-element input {
+        width: 116px;
+    }
+    .nav-2 .popup {
+        height: 65vh;
+    }
+    .section1 .button button {
+        font-size: 8px;
+    }
+    .section1 .search .search1 button {
+        font-size: 10px;
+    }
+}
+@media(max-width:283px){
+    .section1 .intro h1 {
+        font-size: medium;
+    }
+    .nav-2 button {
+        margin: 0px 0px 0px 9px;
+    }
+}
+@media(max-width:301px){
+    .nav-2 .popup .form .form-element label {
+        font-size: 13px;
+    }
+}
